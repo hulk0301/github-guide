@@ -4,4 +4,4 @@ This repository contains documentation about how to use GitHub, including some l
 
 ## GitHub Pages
 
-A Github Page is deployed at: [GitHub Page](https://)
+A Github Page is deployed at: [GitHub Page](https://hulk0301.github.io/github-guide/)
